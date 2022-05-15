@@ -1,0 +1,19 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  min-width: 360px;
+  background-color: #181818;
+  color: $color-white;
+}
+
+button {
+  cursor: pointer;
+}
+
+#app {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
