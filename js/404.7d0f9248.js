@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["404"],{"81bb":function(n,e,t){"use strict";t("8e41")},"8e41":function(n,e,t){},9703:function(n,e,t){"use strict";t.r(e);var c=t("7a23"),b={class:"page404 container"},u=Object(c["g"])("h1",null,"404",-1),i=Object(c["g"])("p",null,"Страница не найдена",-1),o=[u,i];function r(n,e){return Object(c["y"])(),Object(c["f"])("div",b,o)}t("81bb");var s=t("6b0d"),a=t.n(s);const p={},d=a()(p,[["render",r]]);e["default"]=d}}]);
+//# sourceMappingURL=404.7d0f9248.js.map
